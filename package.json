@@ -1,0 +1,23 @@
+{
+  "name": "weirdopackage",
+  "version": "1.0.0",
+  "description": "A collection of useful function to ease programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiJonSeowDev/weirdopackage.git"
+  },
+  "keywords": [
+    "useful",
+    "commands"
+  ],
+  "author": "lijonseow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiJonSeowDev/weirdopackage/issues"
+  },
+  "homepage": "https://github.com/LiJonSeowDev/weirdopackage#readme"
+}
